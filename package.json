@@ -1,0 +1,44 @@
+{
+  "name": "ravegar",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Ravegar yenilikçi bir destek cevaplandırma botudur, dilediğiniz herşeyi onunla yapabilirsiniz.",
+  "main": "./src/index.ts",
+  "scripts": {
+    "start": "cls && tsx --no-warnings ./src/index.ts",
+    "start:dev": "cls && tsx --watch --no-warnings ./src/index.ts",
+    "test": "cls && tsx --no-warnings ./src/test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravegar/ravegarbot.git"
+  },
+  "keywords": [
+    "ravegar",
+    "discord",
+    "app",
+    "client"
+  ],
+  "author": "romanizm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ravegar/ravegarbot/issues"
+  },
+  "homepage": "https://github.com/ravegar/ravegarbot#readme",
+  "dependencies": {
+    "ansi-colors": "^4.1.3",
+    "axios": "^1.4.0",
+    "chartjs-node-canvas": "^4.1.6",
+    "croxydb": "^0.0.10",
+    "discord.js": "^14.13.0",
+    "mongoose": "^7.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.1",
+    "@typescript-eslint/eslint-plugin": "^6.4.0",
+    "@typescript-eslint/parser": "^6.4.0",
+    "ts-arithmetic": "^0.1.1",
+    "tsx": "^3.12.7",
+    "typescript": "^5.1.6"
+  }
+}

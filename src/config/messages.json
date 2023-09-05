@@ -1,0 +1,13 @@
+{
+  "noFile": "File has nothing, it's empty.",
+  "notClass": "It's not the 'class' that's being passed on.",
+  "invalidRegex": "Filename mismatched with regular expressions",
+  
+  "commands": {
+    "loading": "'{0}' file in category '{1}' has been registered."
+  },
+
+  "events": {
+    "loading": "'{0}' file in category '{1}' has been registered."
+  }
+}
