@@ -1,4 +1,4 @@
-# Ravegar Geliştirme Günlükleri
+# Ravegar Bot Geliştirme Günlükleri
 
 ## İlk Gün
 1. Projede birden fazla etkinlik eklenince tuhaf bir hata meydana geliyor. Örneğin, birden fazla `interactionCreate` etkinliği kaydedildiğinde komut kullanıldığında "Unknow Interaction" hatası alınıyor. Bu sorun en kısa sürede çözülecek.
