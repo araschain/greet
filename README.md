@@ -14,12 +14,3 @@
 2. `karşılama` sistemi neredeyse bitirildi yarın erkenden başlayıp bitirilmesi planlanıyor.
 3. Bug-fix yapıldı.
 4. Konsol yazılımı daha iyi hale getirildi.
-
-# Dördüncü Gün
-1. Projeye özel hazırlanan API kaldırıldı.
-2. `karşılama` sistemi tamamlandı.
-3. `destektalep` sistemi başlatıldı.
-4. `kanalayarla`, `logayarla`, `rolayarla` ile ilgili üç ayrı alt komut eklendi.
-5. `destektalep` sistemi için `mesajözelleştir` alt komutuna, `göm (embed)` ve `mesaj` olmak üzere toplamda 2 kişiselleştirilebilir özellik eklendi.
-6. `karşılama` sistemi için ayarlanan `resimli mesaj` özelliği iptal edildi.
-7. *Projeye birden fazla etkinlik eklenince tuhaf bir hata meydana geliyor. Örneğin, birden fazla `interactionCreate` etkinliği kaydedildiğinde komut kullanıldığında "Bilinmeyen Etkileşim" hatası alınıyor.* Bu sorun çözüldü.
